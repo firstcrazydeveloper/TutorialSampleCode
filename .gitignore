@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/source/tests/GenericSampleCode.DataParse.Tests/obj
+/source/src/GenericSampleCode/obj
+/source/.vs/TutorialSampleCode
