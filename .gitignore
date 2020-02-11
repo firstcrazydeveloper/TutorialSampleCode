@@ -5,3 +5,5 @@
 /source/tests/GenericSampleCode.DataParse.Tests/obj
 /source/src/GenericSampleCode/obj
 /source/.vs/TutorialSampleCode
+/source/src/GenericSampleCode/bin/Debug/netcoreapp3.1
+/source/tests/GenericSampleCode.DataParse.Tests/bin/Debug/netcoreapp3.1
